@@ -1,0 +1,83 @@
+# PRIVACY POLICY
+**Last updated:** February 08, 2026
+This Privacy Notice for **ReachlyApps** ('we', 'us', or 'our'), describes how and why we might access, collect, store, use, and/or share ('process') your personal information when you use our services ('Services'), including when you:
+*   Download and use our mobile application (**Bible Streak**), or any other application of ours that links to this Privacy Notice
+*   Engage with us in other related ways, including any sales, marketing, or events
+Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at **reachlyapps@gmail.com**.
+---
+## SUMMARY OF KEY POINTS
+This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by using our table of contents below to find the section you are looking for.
+*   **What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use (e.g., your name, email, and profile character choices).
+*   **Do we process any sensitive personal information?** Yes. Because Bible Streak is a spiritual and religious app, we may process information that reveals your religious or philosophical beliefs based on the reading plans you follow or meditation logs you keep.
+*   **Do we collect any information from third parties?** We receive information from authentication providers (like Apple or Google) when you sign in, and from analytics partners (like Firebase) to help us understand how you use the app.
+*   **How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, for analytics, and to comply with law.
+*   **How do we keep your information safe?** We have adequate organisational and technical processes and procedures in place to protect your personal information. However, no electronic transmission can be guaranteed to be 100% secure.
+*   **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information.
+---
+## TABLE OF CONTENTS
+1. WHAT INFORMATION DO WE COLLECT?
+2. HOW DO WE PROCESS YOUR INFORMATION?
+3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?
+4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+6. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
+7. HOW LONG DO WE KEEP YOUR INFORMATION?
+8. HOW DO WE KEEP YOUR INFORMATION SAFE?
+9. DO WE COLLECT INFORMATION FROM MINORS?
+10. WHAT ARE YOUR PRIVACY RIGHTS?
+11. CONTROLS FOR DO-NOT-TRACK FEATURES
+12. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+13. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?
+14. DO WE MAKE UPDATES TO THIS NOTICE?
+15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+---
+## 1. WHAT INFORMATION DO WE COLLECT?
+### Personal information you disclose to us
+We collect personal information that you voluntarily provide to us when you register on the Services (via **Firebase Authentication**), express an interest in obtaining information about us or our products, or otherwise when you contact us.
+*   **Identifiers:** Names, email addresses, and usernames.
+*   **Authentication Data:** Login credentials from third-party services (Apple ID, Google).
+*   **Sensitive Information:** Religious beliefs (e.g., your selection of Bible reading plans, meditation sessions, and scripture bookmarks).
+*   **Payment Data:** All payment data is handled and stored securely by **Apple/RevenueCat**. We do not store your credit card or billing details on our servers.
+### Application Data
+If you use our application, we also may collect the following information:
+*   **Mobile Device Data:** We automatically collect device information (such as your mobile device ID, model, and manufacturer), operating system, and system configuration information. This is used via **Firebase Analytics** to troubleshoot and improve the app.
+*   **Push Notifications:** We may request to send you push notifications regarding your reading streaks, reminders, or social interactions with friends.
+*   **Screen Time / Device Usage:** The app requests access to Apple's **Family Controls/Managed Settings** API to provide "Focus Shielding" functionality. This data is used *locally* on your device to block distracting apps and is not transmitted to our servers for the purpose of monitoring your personal browsing history.
+## 2. HOW DO WE PROCESS YOUR INFORMATION?
+We process your information to:
+*   **Provide Services:** Syncing your reading progress across devices.
+*   **Facilitate Social Features:** Allowing you to pair with "Partners" or add "Friends" to see shared progress.
+*   **Analytics:** Using **Firebase Analytics** to understand user engagement and improve app features.
+*   **Communicate:** Sending you account-related updates or support responses.
+## 3. WHAT LEGAL BASES DO WE RELY ON?
+We process your information based on:
+*   **Consent:** When you explicitly allow us to process your data or sensitive information.
+*   **Performance of a Contract:** To provide the "Bible Streak" service you signed up for.
+*   **Legitimate Interests:** To improve our app and maintain security.
+## 4. WHEN AND WITH WHOM DO WE SHARE YOUR DATA?
+We may share your data with:
+*   **Service Providers:** Third-party vendors that provide services for us (e.g., **Firebase** for backend/hosting/analytics and **RevenueCat/Apple** for payments).
+*   **Cloud Hosting:** **Google Cloud/Firebase** stores your profile and streak data.
+*   **Partners/Friends:** If you use the social features, your display name and reading progress may be visible to those you have specifically paired with.
+## 5. DO WE USE COOKIES AND TRACKING?
+We do not use traditional web cookies in the mobile app, but we use **mobile device identifiers** and **Firebase SDKs** to track app performance and user behavior.
+## 6. HOW DO WE HANDLE SOCIAL LOGINS?
+If you register via **Apple** or **Google**, we receive certain profile information (like your email and name). We use this only to facilitate your account creation and sync.
+## 7. HOW LONG DO WE KEEP YOUR INFORMATION?
+We keep your information as long as your account is active. You can request account deletion via the App Settings at any time, which will remove your data from our active databases.
+## 8. HOW DO WE KEEP YOUR INFORMATION SAFE?
+We utilize **Firebase's secure infrastructure** to protect your data. However, remember that no method of transmission over the internet is 100% secure.
+## 9. DO WE COLLECT INFORMATION FROM MINORS?
+We do not knowingly collect data from children under 18 years of age. If we learn we have collected such data, we will deactivate the account and delete the data.
+## 10. WHAT ARE YOUR PRIVACY RIGHTS?
+Depending on your region (EEA, UK, Canada), you have the right to access, correct, or delete your personal data. Contact us at **reachlyapps@gmail.com** to exercise these rights.
+## 14. UPDATES TO THIS NOTICE
+We may update this notice as necessary to stay compliant with laws. The "Last Updated" date will always reflect the latest version.
+## 15. CONTACT US
+If you have questions about this notice, email us at: **reachlyapps@gmail.com**.
+Postal Address:
+ReachlyApps
+3 Madeira Road
+Clevedon, Avon BS21 7TJ
+United Kingdom
