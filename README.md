@@ -1,7 +1,7 @@
 # Privacy Policy for Bible Streak
 
-**Effective date:** 15 April 2026
-**Last updated:** 15 April 2026
+**Effective date:** 15 April 2026  
+**Last updated:** 17 April 2026
 
 Bible Streak is operated by **Reachly Apps (Reuben Obery)** ("Reachly Apps", "we", "us", "our").
 
@@ -36,8 +36,10 @@ Depending on how you use Bible Streak, we may collect the following categories o
 - Profile photo URL (if provided)
 
 ### B) App usage and device data
-- App interaction events (for onboarding, feature usage, engagement, and conversion measurement)
-- Device/app identifiers and technical diagnostics
+- App interaction events (for onboarding, feature usage, engagement, **product analytics**, and **advertising / conversion measurement**)
+- Device and app identifiers (including identifiers used for analytics, subscriptions, and attribution)
+- **Approximate location** inferred from **IP address** or similar network signals when you or our partners process requests (often described as **coarse** or regional location; not precise GPS from Bible Streak unless a feature you use explicitly collects it)
+- Technical and diagnostic telemetry **as provided by the SDKs and services we enable** (for example stability, performance, or diagnostic data from Google/Firebase or measurement partners, depending on configuration)
 - Push notification token(s)
 
 ### C) Subscription and transaction data
@@ -50,8 +52,9 @@ Depending on how you use Bible Streak, we may collect the following categories o
 - Content you provide when using camera/photo-dependent app features, where applicable
 
 ### E) Advertising and attribution data
-- Attribution and campaign data from analytics/measurement providers (for example AppsFlyer and TikTok Events SDK)
-- If you allow tracking on iOS via App Tracking Transparency, identifier-based attribution data may be processed
+- Attribution and campaign data from analytics and measurement providers (**including AppsFlyer** and the **TikTok Business SDK** / TikTok for Business measurement tools)
+- **Advertising measurement** may use **usage or interaction data**, **purchase-related signals**, **device/app identifiers**, and (where available) **Apple’s App Tracking Transparency (ATT)** outcome for the **Identifier for Advertisers (IDFA)**
+- **Even if you do not allow tracking for IDFA**, certain partners may still perform **limited measurement** using technologies such as **SKAdNetwork**, **first-party or vendor-generated identifiers**, and **aggregated** reporting, consistent with Apple’s rules and the partner’s implementation
 
 ### F) Permissions-related data
 - Notification permission status
@@ -84,13 +87,13 @@ To improve and secure the Services, including:
 - product analytics,
 - feature performance,
 - fraud/abuse prevention,
-- service reliability and debugging,
+- service reliability and troubleshooting (via telemetry available from the tools we use),
 - business reporting.
 
 ### C) Consent
 Where required by law, including:
-- App Tracking Transparency (iOS tracking permission),
-- certain advertising attribution and measurement operations,
+- App Tracking Transparency (iOS tracking permission) where it governs access to the advertising identifier for certain uses,
+- certain advertising attribution and measurement operations where consent is the appropriate basis,
 - optional notifications (where platform consent applies).
 
 You can withdraw consent at any time in your device settings (for example iOS tracking and notification settings), without affecting prior lawful processing.
@@ -114,7 +117,7 @@ Examples used by the app may include:
 - Google Sign-In
 - RevenueCat
 - AppsFlyer
-- TikTok Events SDK
+- TikTok for Business (**TikTok Business SDK**)
 - Apple App Store / Apple payment infrastructure
 
 We do not sell your personal data for money.
